@@ -6,7 +6,7 @@ An R-Ladies Philly workshop on unit testing on Nov 11, 2021.
 
 In this workshop, Shannon Pileggi and Gordon Shotwell discuss how to get started with unit testing in R, which is formal automated testing of functions within packages. We demonstrate handy functions in `usethis` and `devtools`, strategies for writing tests, debugging techniques, and broad concepts in function writing that facilitate a smoother testing process.
 
-This workshop picks up exactly where we left our little `ralph` (aka **R**-**L**adies **Ph**illy) package one year ago with [“Your first R package in 1 hour: Tools that make R package development easy”](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/){target="_blank"}. Participants will get the most out of this workshop if they review those materials in advance, or if they are already familiar with building R packages with `devtools` and `usethis`.
+This workshop picks up exactly where we left our little `ralph` (aka **R**-**L**adies **Ph**illy) package one year ago with [“Your first R package in 1 hour: Tools that make R package development easy”](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/). Participants will get the most out of this workshop if they review those materials in advance, or if they are already familiar with building R packages with `devtools` and `usethis`.
 
 
 # Packages
