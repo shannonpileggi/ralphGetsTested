@@ -11,7 +11,7 @@ This workshop picks up exactly where we left our little `ralph` (aka **R**-**L**
 
 # Packages
 
-Please install the following packages in advance of the workshop: 
+Please install, or update, the following packages in advance of the workshop: 
 
 * `usethis`, `devtools`, and `testthat`
 
