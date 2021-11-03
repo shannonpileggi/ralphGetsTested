@@ -17,7 +17,7 @@ Please install, or update, the following packages in advance of the workshop:
 
 * `broom`
 
-* `dplyr`, `magrittr`, and `rlang`  (or `tidyverse`)
+* `dplyr`, `purrr`, `magrittr`, and `rlang`  (or `tidyverse`)
 
 # Get started
 
