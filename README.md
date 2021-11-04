@@ -19,6 +19,7 @@ Please install, or update, the following packages in advance of the workshop:
 
 * `dplyr`, `purrr`, `magrittr`, and `rlang`  (or `tidyverse`)
 
+
 # Get started
 
 You can work either (1) locally or (2) with GitHub.
