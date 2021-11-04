@@ -15,7 +15,7 @@ Please install, or update, the following packages in advance of the workshop:
 
 * `usethis`, `devtools`, and `testthat`
 
-* `broom`
+* `broom`, `glue`
 
 * `dplyr`, `purrr`, `magrittr`, and `rlang`  (or `tidyverse`)
 
