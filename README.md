@@ -102,4 +102,4 @@ awesome_rladies(1:2)
 
 * What type of object should the function output?
 
-* What type of object does this function expect, can we put up guardrails so the user doesn’t send the wrong thing? How do we test those guardrails?
+* What type of object does this function expect? Can we put up guardrails so the user doesn’t send the wrong thing? How do we test those guardrails?
