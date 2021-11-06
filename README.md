@@ -90,6 +90,14 @@ awesome_rladies <- function(v) {
 }
 ```
 
+and execute the function with:
+
+```
+awesome_rladies(1)
+awesome_rladies(2)
+awesome_rladies(1:2)
+```
+
 * Can we break this up to make it easier to test?
 
 * What type of object should the function output?
