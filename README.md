@@ -31,6 +31,8 @@ You can work either (1) locally or (2) with GitHub.
 
 # Keyboard shortcuts
 
+* `Ctrl + S` for save file
+
 * `Ctrl + Shift + L` for `devtools::load_all()`
 
 * `Ctrl + Shift + F10` to restart R
