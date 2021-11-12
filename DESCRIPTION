@@ -14,5 +14,11 @@ BugReports: https://github.com/shannonpileggi/ralphGetsTested/issues
 Imports: 
     broom,
     dplyr,
+    glue,
     magrittr,
-    rlang
+    purrr,
+    rlang,
+    usethis
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
