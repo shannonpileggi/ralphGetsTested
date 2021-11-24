@@ -1,6 +1,7 @@
 # ralphGetsTested
 
-An R-Ladies Philly workshop on unit testing on Nov 11, 2021.
+An R-Ladies Philly workshop on unit testing on Nov 11, 2021. An
+accompanying [blog post](https://www.pipinghotdata.com/posts/2021-11-23-getting-started-with-unit-testing-in-r/) and workshop [recording](https://youtu.be/4bPekjzIYiU) are now available.
 
 # Abstract
 
